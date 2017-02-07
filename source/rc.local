@@ -1,0 +1,13 @@
+#!/bin/sh -e
+#
+# rc.local
+#
+
+case $1 in
+    start)
+        service emby-server start
+    ;;
+    stop)
+        service emby-server stop
+    ;;
+esac

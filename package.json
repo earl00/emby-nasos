@@ -1,0 +1,16 @@
+{
+    "type": "application", 
+    "id": "com.me.emby", 
+    "version": "1.0", 
+    "depends": [
+        "com.ubuntu.trusty-lamp-1.0"
+    ], 
+    "startup_mode": "auto",
+    "redirect_mode": "custom",
+    "app_data": [
+        "/var/lib/emby-server"
+    ],
+    "network_ports": {
+        "WEB_UI": 8096
+    }
+}

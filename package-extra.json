@@ -1,0 +1,19 @@
+{
+    "name": {
+        "en": "Emby"
+    }, 
+    "description_short": {}, 
+    "description_long": {}, 
+    "changelog": {}, 
+    "keywords": {}, 
+    "publisher_name": "enn", 
+    "publisher_contact": "earl00@gmail.com", 
+    "publication_date": "2017-02-06", 
+    "website_url": "https://github.com/earl00/emby-nasos", 
+    "privacy_url": "", 
+    "disclaimer": "", 
+    "categories": ["multimedia"], 
+    "supported_languages": [
+        "en"
+    ]
+}
